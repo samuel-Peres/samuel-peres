@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01DFD7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+nome+é+Samue+Martins+Peres;Eu+sou+desenvolvedor+web)](https://git.io/typing-svg)
 
+<hr>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samuel-Peres&bg_color=0d1117&color=0489B1&line=0489B1&point=01DFD7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
@@ -17,6 +19,8 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
+ <hr>
+ 
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF8000&labelColor=0D1117)&nbsp; 
@@ -24,11 +28,13 @@
 
 
 
-
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Sass](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=SASS&logoColor=F781F3&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=642EFE&labelColor=0D1117)&nbsp;
+
+<hr>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
