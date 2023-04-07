@@ -2,10 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01DFD7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+nome+é+Samue+Martins+Peres;Eu+sou+desenvolvedor+web)](https://git.io/typing-svg)
 
-<hr>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samuel-Peres&bg_color=0d1117&color=0489B1&line=0489B1&point=01DFD7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+<hr>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=samuel-Peres&show_icons=true&count_private=true&hide_border=true&title_color=01DFD7&icon_color=0489B1&text_color=c9d1d9&bg_color=151515" alt="Samuel Martins Peres github stats" /> 
